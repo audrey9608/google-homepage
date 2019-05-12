@@ -1,11 +1,17 @@
+#inputBar{
+  border-radius: 24px;
+  width: 600px;
+}
+
 #glogo{
   height: 233px;
-  margin-top: 89px;
+  margin-bottom: 100px;
+  padding-bottom: 272px;
 }
 
 #googleImg{
   padding-top:109px;
-
+  width: 500px;
 }
 
 .center{
@@ -13,5 +19,9 @@
 }
 
 #buttons{
-  padding-top: 50px;
+  padding-top: 20px;
+}
+
+.nav-item{
+  padding-left: 27px;
 }
