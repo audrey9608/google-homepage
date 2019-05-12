@@ -1,20 +1,17 @@
-html {
-  font-size: 14px;
-}
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+#glogo{
+  height: 233px;
+  margin-top: 89px;
 }
 
-.container {
-  max-width: 960px;
+#googleImg{
+  padding-top:109px;
+
 }
 
-.pricing-header {
-  max-width: 700px;
+.center{
+    text-align: -webkit-center;
 }
 
-.card-deck .card {
-  min-width: 220px;
+#buttons{
+  padding-top: 50px;
 }
